@@ -20,4 +20,4 @@ and contains a function that applies the tuple to an existing configuration, re-
 and the program generates a left-handed version of the algorithm, which, on the cube, has a mirror-image effect to the original. 
 This program uses basic string manipulation techniques.
 
-	**_Have fun, and stay tuned for more functionality!!_**
+**_Have fun, and stay tuned for more functionality!!_**
